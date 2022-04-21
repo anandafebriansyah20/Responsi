@@ -1,0 +1,6 @@
+C:\Users\user\Videos\ResponsiPemrograman4512\ResponsiPemrograman4512\bin\Debug\ResponsiPemrograman4512.exe.config
+C:\Users\user\Videos\ResponsiPemrograman4512\ResponsiPemrograman4512\bin\Debug\ResponsiPemrograman4512.exe
+C:\Users\user\Videos\ResponsiPemrograman4512\ResponsiPemrograman4512\bin\Debug\ResponsiPemrograman4512.pdb
+C:\Users\user\Videos\ResponsiPemrograman4512\ResponsiPemrograman4512\obj\Debug\ResponsiPemrograman4512.csprojResolveAssemblyReference.cache
+C:\Users\user\Videos\ResponsiPemrograman4512\ResponsiPemrograman4512\obj\Debug\ResponsiPemrograman4512.exe
+C:\Users\user\Videos\ResponsiPemrograman4512\ResponsiPemrograman4512\obj\Debug\ResponsiPemrograman4512.pdb
